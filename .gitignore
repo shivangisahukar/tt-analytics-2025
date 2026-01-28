@@ -1,0 +1,12 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python environment
+venv/
+__pycache__/
+*.py[cod]
+data/raw
+
+# Mac system files
+.DS_Store
+
+# Data files (if you don't want to share the raw PDFs publicly)
+*.pdf

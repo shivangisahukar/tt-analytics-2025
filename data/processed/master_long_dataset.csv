@@ -1,0 +1,857 @@
+season_year,ttfi_id,player_name,state_institution,total_seasonal_points,final_rank_position,tournament_name,a1_location,a2_date,points_earned
+2022,200503,AKULA Sreeja,RBI,480,1,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",30
+2022,200503,AKULA Sreeja,RBI,480,1,Senior National Champion,Shillong,"18 - 25, April 2022",90
+2022,200503,AKULA Sreeja,RBI,480,1,Senior National Champion,Jammu,"20 - 27 Mar, 2023",180
+2022,203203,MUKHERJEE Sutirtha,RSPB / BNG,335,2,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",90
+2022,203203,MUKHERJEE Sutirtha,RSPB / BNG,335,2,Senior National Champion,Shillong,"18 - 25, April 2022",15
+2022,203203,MUKHERJEE Sutirtha,RSPB / BNG,335,2,Senior National Champion,Jammu,"20 - 27 Mar, 2023",120
+2022,200467,RISHYA Reeth,PSPB,330,3,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",60
+2022,200467,RISHYA Reeth,PSPB,330,3,Senior National Champion,Shillong,"18 - 25, April 2022",45
+2022,200467,RISHYA Reeth,PSPB,330,3,Senior National Champion,Jammu,"20 - 27 Mar, 2023",30
+2022,200813,CHITALE Diya parag,MHR / RBI,285,4,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",45
+2022,200813,CHITALE Diya parag,MHR / RBI,285,4,Senior National Champion,Shillong,"18 - 25, April 2022",15
+2022,200813,CHITALE Diya parag,MHR / RBI,285,4,Senior National Champion,Jammu,"20 - 27 Mar, 2023",30
+2022,200220,AYHIKA Mukherjee,RBI,220,5,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,200220,AYHIKA Mukherjee,RBI,220,5,Senior National Champion,Shillong,"18 - 25, April 2022",45
+2022,200220,AYHIKA Mukherjee,RBI,220,5,Senior National Champion,Jammu,"20 - 27 Mar, 2023",90
+2022,200202,DUTTA Moumita,RSPB / BNG,215,6,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,200202,DUTTA Moumita,RSPB / BNG,215,6,Senior National Champion,Shillong,"18 - 25, April 2022",30
+2022,200202,DUTTA Moumita,RSPB / BNG,215,6,Senior National Champion,Jammu,"20 - 27 Mar, 2023",60
+2022,201110,KUTUMBALE Anusha,MP,200,7,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",45
+2022,201110,KUTUMBALE Anusha,MP,200,7,Senior National Champion,Shillong,"18 - 25, April 2022",30
+2022,201110,KUTUMBALE Anusha,MP,200,7,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,201115,BAISYA Poymantee,BNG / RSPB,195,8,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",15
+2022,201115,BAISYA Poymantee,BNG / RSPB,195,8,Senior National Champion,Shillong,"18 - 25, April 2022",15
+2022,201115,BAISYA Poymantee,BNG / RSPB,195,8,Senior National Champion,Jammu,"20 - 27 Mar, 2023",60
+2022,200805,GHOSH Swastika,AAI / MHR,190,9,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",15
+2022,200805,GHOSH Swastika,AAI / MHR,190,9,Senior National Champion,Shillong,"18 - 25, April 2022",30
+2022,200805,GHOSH Swastika,AAI / MHR,190,9,Senior National Champion,Jammu,"20 - 27 Mar, 2023",30
+2022,202096,GHORPADE Yashaswini,KNT / PSPB,175,10,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",30
+2022,202096,GHORPADE Yashaswini,KNT / PSPB,175,10,Senior National Champion,Shillong,"18 - 25, April 2022",15
+2022,202096,GHORPADE Yashaswini,KNT / PSPB,175,10,Senior National Champion,Jammu,"20 - 27 Mar, 2023",60
+2022,200645,KAMATH Archana girish,PSPB / KNT,160,11,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,200645,KAMATH Archana girish,PSPB / KNT,160,11,Senior National Champion,Jammu,"20 - 27 Mar, 2023",90
+2022,200424,DAS Mouma,PSPB,145,12,Senior National Champion,Shillong,"18 - 25, April 2022",60
+2022,200424,DAS Mouma,PSPB,145,12,Senior National Champion,Jammu,"20 - 27 Mar, 2023",60
+2022,200571,SARKAR Takeme,RSPB,135,13,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",30
+2022,200571,SARKAR Takeme,RSPB,135,13,Senior National Champion,Shillong,"18 - 25, April 2022",30
+2022,200881,SEN Prapti,BNG / RSPB,130,14,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",30
+2022,200881,SEN Prapti,BNG / RSPB,130,14,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,200881,SEN Prapti,BNG / RSPB,130,14,Senior National Champion,Jammu,"20 - 27 Mar, 2023",30
+2022,200345,KRITTWIKA Sinha roy,GUJ / PSPB,120,15,Senior National Champion,Shillong,"18 - 25, April 2022",15
+2022,200399,CHIPIA Frenaz,GUJ,85,16,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,200399,CHIPIA Frenaz,GUJ,85,16,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,202459,MUKHERJEE Sagarika,RSPB,80,17,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",15
+2022,202459,MUKHERJEE Sagarika,RSPB,80,17,Senior National Champion,Shillong,"18 - 25, April 2022",15
+2022,202459,MUKHERJEE Sagarika,RSPB,80,17,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,201162,NARANG Lakshita,DLI,75,18,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,201162,NARANG Lakshita,DLI,75,18,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,200884,GOEL Radhapriya,TTFI/AAI,70,19,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",15
+2022,200884,GOEL Radhapriya,TTFI/AAI,70,19,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,200102,AMRUTHA PUSHPAK Shekhar,RBI / TNTTA,70,19,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",15
+2022,200102,AMRUTHA PUSHPAK Shekhar,RBI / TNTTA,70,19,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,200736,SIVASHANKAR yashini,TNTTA,65,21,Senior National Champion,Shillong,"18 - 25, April 2022",15
+2022,200736,SIVASHANKAR yashini,TNTTA,65,21,Senior National Champion,Jammu,"20 - 27 Mar, 2023",30
+2022,200110,SELENADEEPTHI Selvakumar,TNTTA / IA & AD,65,21,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",15
+2022,200110,SELENADEEPTHI Selvakumar,TNTTA / IA & AD,65,21,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,200750,MANI Nithyashree,TTTA /AAI,65,21,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,200750,MANI Nithyashree,TTTA /AAI,65,21,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,200750,MANI Nithyashree,TTTA /AAI,65,21,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,200837,AMRUTE Shruti Vijay,RSPB,65,21,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",15
+2022,200837,AMRUTE Shruti Vijay,RSPB,65,21,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,200529,DAS Ankita,PSPB / BNG,60,26,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,200529,DAS Ankita,PSPB / BNG,60,26,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,200529,DAS Ankita,PSPB / BNG,60,26,Senior National Champion,Jammu,"20 - 27 Mar, 2023",30
+2022,200422,SAINI Suhana,HRN,60,26,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,200422,SAINI Suhana,HRN,60,26,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,202317,NATH Kaushani,RSPB / BNG A,60,26,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,202317,NATH Kaushani,RSPB / BNG A,60,26,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,201114,KUNDU Munmun,BNG / TTFI,55,29,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,201114,KUNDU Munmun,BNG / TTFI,55,29,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,201061,VENKATESAN Kowshika,TNTTA,50,30,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,200425,BATRA Manika,PSPB,45,31,Senior National Champion,Shillong,"18 - 25, April 2022",15
+2022,200425,BATRA Manika,PSPB,45,31,Senior National Champion,Jammu,"20 - 27 Mar, 2023",30
+2022,200504,DESHPANDE Divya,PSPB,40,32,Senior National Champion,Jammu,"20 - 27 Mar, 2023",30
+2022,200442,D'SOUZA Senhora cezinha,BBSCB / MHR,40,32,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,201145,BHARGAVA Vanshika,DLI,40,32,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,200180,VISWANATH Kushi,KNT,40,32,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,200121,KOKILA Vedachalam sureshku,TNTTA / TTFI,35,37,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,200506,SHANKAR Riti,HRN,35,37,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,200674,JAISWAL Varuni,TELG,35,37,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",15
+2022,200674,JAISWAL Varuni,TELG,35,37,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,200895,PATWARI Surbhi,AAI,30,40,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,202344,JOARDAR Oishiki,BNG A,30,40,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,200643,HARSHA VARDHINI Calange ra,RBI / TNTTA,30,40,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,200507,PATKAR Madhurika,PSPB,30,40,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,200507,PATKAR Madhurika,PSPB,30,40,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,203329,VANSHIKA Deshna m,KNT,20,46,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,201496,JATI Pausali,ESIC,20,46,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,200735,MANJUNATH Anargya,KNT,20,46,Senior National Champion,Jammu,"20 - 27 Mar, 2023",20
+2022,205363,MIRCHANDANI Risha,MHR B / MHR A,20,46,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,200486,GOYAL garima,DLI,20,46,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,201305,DEVI KARTHIKEYAN Vedhalak,TNTTA,20,46,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,201853,GOGOI Trisha,ASM,10,54,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,201096,DE Sataporni,BNG B,10,54,Senior National Champion,Shillong,"18 - 25, April 2022",10
+2022,201781,UPADHAYA Kritika,ASM,10,10,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,201029,BASKAR Kavyasree,TTTA,10,10,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2022,202434,VARTIKAR Pritha,MHR B,10,10,Inter-Institutional,Dehradun,"07 - 14, Dec 2021",10
+2023,200503,Akula Sreeja,RBI,360,1,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",120
+2023,200503,Akula Sreeja,RBI,360,1,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",90
+2023,200220,Ayhika Mukherjee,RBI,330,2,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,200220,Ayhika Mukherjee,RBI,330,2,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",120
+2023,200645,Kamath Archana Girish,PSPB,300,3,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",60
+2023,200645,Kamath Archana Girish,PSPB,300,3,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",60
+2023,200813,Chitale Diya Parag,RBI,270,4,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",60
+2023,200813,Chitale Diya Parag,RBI,270,4,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",60
+2023,201115,Baisya Poymantee,RSPB,270,4,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,201115,Baisya Poymantee,RSPB,270,4,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",180
+2023,202434,Vartikar Pritha,MHR,180,6,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",3
+2023,202434,Vartikar Pritha,MHR,180,6,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",90
+2023,203203,Mukherjee Sutirtha,RSPB,160,7,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",40
+2023,203203,Mukherjee Sutirtha,RSPB,160,7,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,200202,Dutta Moumita,RSPB,145,8,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",80
+2023,200202,Dutta Moumita,RSPB,145,8,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,202096,Ghorpade Yashaswini,KNT,135,9,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,202096,Ghorpade Yashaswini,KNT,135,9,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",30
+2023,203189,Wani Sayali,MHR,130,10,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,203189,Wani Sayali,MHR,130,10,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",60
+2023,200736,Sivashankar Yashini,TN,120,11,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,200736,Sivashankar Yashini,TN,120,11,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",30
+2023,203864,Varghese Jennifer,MHR,95,12,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,203864,Varghese Jennifer,MHR,95,12,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,200424,Das Mouma,PSPB,95,12,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",20
+2023,200424,Das Mouma,PSPB,95,12,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",30
+2023,200422,Saini Suhana,HRN,95,12,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",20
+2023,200422,Saini Suhana,HRN,95,12,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",60
+2023,201162,Narang Lakshita,DLI,90,15,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",40
+2023,201162,Narang Lakshita,DLI,90,15,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",30
+2023,201110,Kutumbale Anusha,RSPB,90,15,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,201110,Kutumbale Anusha,RSPB,90,15,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",30
+2023,201029,Baskar Kavyasree,TN,85,17,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,201029,Baskar Kavyasree,TN,85,17,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,200805,Ghosh Swastika,AAI,85,17,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",20
+2023,200805,Ghosh Swastika,AAI,85,17,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,200467,Rishya Reeth,PSPB,75,19,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",40
+2023,200881,Sen Prapti,BNG,75,19,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",30
+2023,200571,Sarkar Takeme,RSPB,75,19,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",20
+2023,200571,Sarkar Takeme,RSPB,75,19,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",30
+2023,201351,Rohilla Anjali,HRN,70,22,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,201351,Rohilla Anjali,HRN,70,22,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,200884,Goel Radhapriya,AAI,70,22,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",20
+2023,200884,Goel Radhapriya,AAI,70,22,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",30
+2023,201853,Gogoi Trisha,ASM,60,24,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,201853,Gogoi Trisha,ASM,60,24,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,205498,Das Syndrela,BNG,60,24,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,205498,Das Syndrela,BNG,60,24,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,200110,Selena Deepti Selvakumar,TN,60,24,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,200110,Selena Deepti Selvakumar,TN,60,24,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,200750,Mani Nithyashree,TN,60,24,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",20
+2023,200750,Mani Nithyashree,TN,60,24,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,202459,Mukherjee Sagarika,RSPB,55,28,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",20
+2023,202459,Mukherjee Sagarika,RSPB,55,28,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,200425,Batra Manika,PSPB,50,29,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",40
+2023,200425,Batra Manika,PSPB,50,29,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200837,Amrute Shruti Vijay,RSPB,50,29,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,200837,Amrute Shruti Vijay,RSPB,50,29,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200504,Deshpande Divya,PSPB,50,29,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,200504,Deshpande Divya,PSPB,50,29,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,201114,Kundu Munmun,BNG,50,29,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,201114,Kundu Munmun,BNG,50,29,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,200643,Harsha Vardhini Calange Ravichandran,RBI,50,29,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,200643,Harsha Vardhini Calange Ravichandran,RBI,50,29,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,202344,Joardar Oishiki,GUJ,50,29,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,202344,Joardar Oishiki,GUJ,50,29,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200405,Kumaresan Shamini,PSPB,47,35,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,200405,Kumaresan Shamini,PSPB,47,35,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,200180,Viswanath Kushi,KNT,47,35,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,200180,Viswanath Kushi,KNT,47,35,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,200353,Garima Goyal,DLI,47,35,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,200353,Garima Goyal,DLI,47,35,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,200674,Jaiswal Varuni,TELG,45,38,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,200674,Jaiswal Varuni,TELG,45,38,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,202317,Nath Kaushani,RSPB,45,38,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,202317,Nath Kaushani,RSPB,45,38,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,203747,Mudgal Vanshika,DLI,45,38,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,203747,Mudgal Vanshika,DLI,45,38,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,204374,Dargan Saanvi,HRN,45,38,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200399,Chipia Frenaz,IA & AD,40,42,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,200399,Chipia Frenaz,IA & AD,40,42,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,201046,Chakraborti Prithoki,HRN,40,42,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",20
+2023,203188,Kotecha Taneesha,MHR,40,42,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,203188,Kotecha Taneesha,MHR,40,42,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200785,Basak Anannya,MHR,40,42,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",20
+2023,200785,Basak Anannya,MHR,40,42,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200337,Pooja Sahasrabudhe,PSPB,39,46,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,200337,Pooja Sahasrabudhe,PSPB,39,46,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,200916,Noorbasha Shailu,AP,39,46,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,200916,Noorbasha Shailu,AP,39,46,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,203207,Das Priyadarsini,RBI,37,48,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,203207,Das Priyadarsini,RBI,37,48,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,203329,Vanshika Deshna M,KNT,35,49,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,203329,Vanshika Deshna M,KNT,35,49,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200754,Neelakandan Deepika,TN,35,49,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200442,D'souza Senhora Cezinha,BBSCB,35,49,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,200442,D'souza Senhora Cezinha,BBSCB,35,49,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,204331,Roy Ditsa,BNG,35,49,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200651,Parte Shweta,RBI,35,49,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,200651,Parte Shweta,RBI,35,49,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200795,Patil Manushree,BBSCB,32,55,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,200795,Patil Manushree,BBSCB,32,55,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,200345,Krittwika Sinha Roy,PSPB,32,55,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,204566,Tripathi Avani,UP,32,55,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,204566,Tripathi Avani,UP,32,55,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,203214,Banu Nikhat,RBI,32,55,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,203214,Banu Nikhat,RBI,32,55,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,201145,Bhargava Vanshika,DLI,32,55,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",3
+2023,201145,Bhargava Vanshika,DLI,32,55,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,200735,Manjunath Anargya,AAI,31.5,60,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,200735,Manjunath Anargya,AAI,31.5,60,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,204435,. Disha,UP,31.5,60,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,204435,. Disha,UP,31.5,60,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,201061,Venkatesan Kowshika,TN,28,62,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",15
+2023,201061,Venkatesan Kowshika,TN,28,62,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,204561,Chaudhary Aarti,UP,27,63,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,204561,Chaudhary Aarti,UP,27,63,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,204007,Anand Shriya,TN,27,63,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,203741,Bramhachary Diya,DLI,26.5,65,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,201049,Bhowmick Sneha,TTFI,25,67,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,204397,Datta Subhankrita,NCOE,24,69,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,204397,Datta Subhankrita,NCOE,24,69,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,200102,Amrutha Pushpak Shekhar,RBI,24,69,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,200102,Amrutha Pushpak Shekhar,RBI,24,69,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,204638,Sahayaraj Gladlyn Flora,TN,23.5,71,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,204638,Sahayaraj Gladlyn Flora,TN,23.5,71,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,204398,Das Soumya,BNG,23,72,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,200506,Shankar Riti,HRN,22,73,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",3
+2023,200506,Shankar Riti,HRN,22,73,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,205145,N.bs Thanuja,TN,22,73,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",3
+2023,205145,N.bs Thanuja,TN,22,73,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,200697,. Naina,TELG,22,73,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200819,Chiplunkar Manasi,MHR,21,76,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,202679,Gupta Kaashvi,FCI,19,77,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,202679,Gupta Kaashvi,FCI,19,77,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,202560,Sarkar Nilishma,BNG,19,77,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,202560,Sarkar Nilishma,BNG,19,77,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,203088,Bharat Vartica,NCOE,19,77,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,203088,Bharat Vartica,NCOE,19,77,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,201310,Dasgupta Koushiki,BNG,19,77,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",3
+2023,201310,Dasgupta Koushiki,BNG,19,77,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200867,Basu Dipanwita,BNG,17,81,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,200867,Basu Dipanwita,BNG,17,81,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,201399,Paul Puja,BNG,17,81,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",3
+2023,201399,Paul Puja,BNG,17,81,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,200781,Paul Trisha,HRN,16,84,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",3
+2023,200781,Paul Trisha,HRN,16,84,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,201096,De Sataporni,BNG,15,85,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,201096,De Sataporni,BNG,15,85,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,200040,Maria Rony,CB,14.5,86,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,200040,Maria Rony,CB,14.5,86,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,204063,Mahajan Suhani,UP,14.5,86,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,204063,Mahajan Suhani,UP,14.5,86,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,203335,Nagam Sharvani,TN,14.5,86,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,203335,Nagam Sharvani,TN,14.5,86,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,200260,Sanya Sehgal,IA & AD,14.5,86,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,200260,Sanya Sehgal,IA & AD,14.5,86,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,201125,Modak Mouli,BNG,14,90,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,201125,Modak Mouli,BNG,14,90,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,203932,Dharshini V Mouriya,NCOE,14,90,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,203364,P Nair Pranati,KRL,14,90,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,203871,Dalvi Mukta,MHR,14,90,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,201500,Narjinary Suhana,IA & AD,13.5,96,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,201500,Narjinary Suhana,IA & AD,13.5,96,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200777,Ramjali Kajol,AP,13,97,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,200438,Paul Mousumi,PSPB,13,97,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,204429,Goel Teetiksha,CHD,12,100,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,204212,Dangi Gargi,HRN,12,100,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,200402,Sivaramakrishnan Krithicka,ESIC,12,100,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",3
+2023,200402,Sivaramakrishnan Krithicka,ESIC,12,100,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,202910,- Pelf,CHD,12,100,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,204352,Das Mahek,BNG,12,100,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200529,Das Ankita,PSPB,11.5,106,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,200125,Shanmathi Sathyamoorthy,FCI,11.5,106,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,200125,Shanmathi Sathyamoorthy,FCI,11.5,106,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,204511,Kapoor Riddhima,DLI,10.5,108,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,204511,Kapoor Riddhima,DLI,10.5,108,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,204057,Sahu Gungun,UP,10.5,108,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,204057,Sahu Gungun,UP,10.5,108,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202308,Purohit Trupti,KNT,10.5,108,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,202308,Purohit Trupti,KNT,10.5,108,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,201225,Kulkarni Samruddhi,MHR,10,111,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",10
+2023,200351,Tanushree Das Gupta,MEG,10,111,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",3
+2023,200351,Tanushree Das Gupta,MEG,10,111,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,203105,Banik Sammridhi,TELG,10,111,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,202884,Dalai Swetapadma,ODS,10,111,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,205084,Nandi Aarushi,BNG,10,111,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,200657,Balusuri Raaga Niveditha,MP,9.5,117,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,200657,Balusuri Raaga Niveditha,MP,9.5,117,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,204068,Jayswal Riya,GUJ,9.5,117,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,201099,Sarkar Nikita,NCOE,9,119,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,204575,Jaiswal Shrishti,UP,9,119,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201512,Kadri Filzah Fatema,GUJ,9,119,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,200214,Srijanee Dey,BNG,9,119,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,205767,Sharma Vani,CHD,8,123,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,200448,Mondal Soumi,PSPB,8,123,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,204890,Banerjee Saniya,JKD,8,123,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,203477,Datta Soumili,BNG,7,127,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,204024,Mazumdar Prachi,ASM,7,127,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,203999,Antal Manal,HRN,7,127,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,207067,Singh Anjali,TTFI 1,7,127,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,200121,Kokila Vedachalam Sureshkumar,TN,7,127,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",7
+2023,203309,Devi Sree Dongari,TELG,7,127,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,201496,Jati Pausali,ESIC,7,127,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",7
+2023,204256,Guna Samyuktha Varanasi,AP,7,127,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201008,Santra Ananya,BNG,7,127,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",3
+2023,201008,Santra Ananya,BNG,7,127,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202537,Kumari Neha,ODS,7,127,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",3
+2023,202537,Kumari Neha,ODS,7,127,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,203373,Vaishnavi Surya Yandamuri,AP,5.5,140,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,203373,Vaishnavi Surya Yandamuri,AP,5.5,140,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,200608,Lahkar Kakoli,RBI,5.5,140,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,200608,Lahkar Kakoli,RBI,5.5,140,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201781,Upadhaya Kritika,ASM,5.5,140,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,201781,Upadhaya Kritika,ASM,5.5,140,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,206320,Agrawal Advika,MP,5.5,140,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,206320,Agrawal Advika,MP,5.5,140,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205287,Prajapati Nidhi,GUJ,5.5,140,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,204109,Yadav Poonam,MHR,5,145,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,200664,Nagulapalli Bhaavitha,TELG,5,145,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",4
+2023,203829,Bhattacharjee Sandika,NCOE,5,145,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202460,Dutta Anuska,BNG,4.5,152,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,202460,Dutta Anuska,BNG,4.5,152,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201325,Jayswal Namna,GUJ,4.5,152,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,201325,Jayswal Namna,GUJ,4.5,152,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205980,Chhabra Cherrish,CHD,4,154,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",4
+2023,208374,Fatima Nusrat,LAD,4,154,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",4
+2023,202499,Vyas Anshul,TTFI 2,4,154,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",4
+2023,201780,Mazumdar Jitakhee,ASM,4,154,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201409,Prosad Sucheta,BNG,4,154,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202029,N Nazeerabi,AP,3.5,160,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,202029,N Nazeerabi,AP,3.5,160,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202574,Dixit Mahika,UP,3.5,160,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,202574,Dixit Mahika,UP,3.5,160,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202147,Chaturvedi (bhatt) Mrs. Himani,MP,3.5,160,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,202147,Chaturvedi (bhatt) Mrs. Himani,MP,3.5,160,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,200798,Kawle Charvi,FCI,3.5,160,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,200798,Kawle Charvi,FCI,3.5,160,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202146,M Mandula Nikitha,ESIC,3,164,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",3
+2023,200096,Vidya Narasimhan,CRSB,3,164,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",3
+2023,202734,Jain Archa,DLI,3,164,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202426,Murad Aafrien,GUJ,3,164,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205479,Ghosh Mohona,BNG,3,164,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205480,Ghosh Mohita,BNG,3,164,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,203755,Sarkar Jessica,BNG,3,164,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,203733,Manya,PUN,3,164,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205116,Hazra Shreyasi,BNG,3,164,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205821,Iniya I,PON,3,164,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205926,Gopi Riya,GOA,3,164,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,203328,Gajendran Karruna,KNT,3,164,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,204098,Joshy Maria Cicily,KRL,3,164,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,203585,Singh Neha,CHD,3,164,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,204579,Surlakar Urvi,GOA,3,164,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,200409,Manohar Monica,TELG,2.5,188,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,201417,Dey Chandrani,LIC,2.5,188,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,201005,Mukherjee Manisha,IA & AD,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201181,Kohli Tisha,DLI,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201338,Kotia Purvanshi,MP,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201083,Biswas Diksa,FCI,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,203548,Donekal Ananya,TELG,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205879,Rao Bhavya,MP,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,200709,Garlapati Pranitha,TELG,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,204552,Chatterjee Mayuri,ODS,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202881,Sharma Tanzia,DLI,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,206026,Jain Nishtha,DLI,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,206306,Solanki Kajal,TTFI 2,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,200988,Gupta Ambika,UP,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202064,Modi Surabhi,CG,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201078,Guha Subhasree,BNG,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205619,Chowdhury Sulagna,BNG,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,206017,Thanvi Maulisha,TTFI 2,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205449,Parveen Nuzhat,BNG,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,203908,Bansal Tarushi,PUN,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,206629,Nithyasri V. S,PON,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,208343,Raj Vishakha,UP,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201922,Dubey Ananya,CG,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,204486,Nehal Navya,DLI,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,207193,Gupta Khushi,TTFI,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202165,Bose Tanushree,BNG,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202801,Bist Sarvi,MP,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,204221,Sareen Ekta,PUN,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201328,Bhairapure Kausha,GUJ,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,200055,Hely Shah,CRSB,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,207103,Mehta Akanksha,HRN,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,206011,Dhaliwal Gulnaar,PUN,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,203158,Das Poulami,MC & IT,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,206043,Acharya Anushka,TTFI 1,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205794,Saikia Gargi,TTFI,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202498,Dewan Sunidhi,TTFI 1,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202892,Mukherjee Falguni,BHR,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,202197,Shally Dhawan,BSNL,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205428,Pal Moumita,DLI,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,204064,Dixit Meeta,UP,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,204894,Sinku Snehlata,JKD,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,200515,Daman Ripu,LIC,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,206628,Kajanethra M,PON,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,203907,Bansal Tavishi,PUN,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201243,Sharma Pooja,MP,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,204194,Nandini Raju,PON,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205763,Debnath Owindrilla,BNG,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,206864,Yepthomi Avitoli K,NAG,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205708,Bhardwaj Aaditri,UKD,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,203251,Basak Anushka,TTFI,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201950,Sarmah Adrija,TTFI,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201229,Sharma Bhavprita,HP,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,204129,Panwar Riya,UKD,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205187,Goyal Mehak,HRN,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201765,Sagar Prerna,BHR,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,203005,Maity Triyasha,BNG,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201716,Dhuria Vaishnavi,UP,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,203475,Yadav Vaishnavi,UP,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,200537,Arora Aarushi,PUN,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201994,G Abhaya,KRL,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,201217,Seal Manisha,MP,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,205175,. Pratigya,TTFI,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,206285,Thadani Aashna,DLI,2,190,Senior National Championship (Haryana),"Panchkula, (haryana)","16 - 22 Dec, 2023",2
+2023,200222,Anushree Hazra,BNG,1.5,259,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,203554,Bagchi Sreemoyee,BNG,1.5,259,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,202044,Saini Nadia,FCI,1.5,259,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,205264,Chatterjee Sanchita,BNG,1.5,259,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,200877,Ghosh Shreya,BNG,1.5,259,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,201565,Joshi Vidushi,UKD,1.5,259,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,205997,Bagchi Shreya,BNG,1.5,259,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,202944,Bhatt Yashasvi,UKD,1.5,259,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,200575,Kundu Pallabi,RBI,1.5,259,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2023,203770,Dey Srijanee,BNG,1.5,259,Inter Institutional (Vishakhapatnam),Vishakhapatnam,"16 - 22 Aug, 2023",1.5
+2021,200503,AKULA Sreeja,RBI,360,1,Senior National Championship,Dehradun,"07 - 14, Dec 2021",30
+2021,200503,AKULA Sreeja,RBI,360,1,Senior National Championship,Shillong,"18 - 25, April 2022",180
+2021,200467,RISHYA Reeth,PSPB,255,2,Senior National Championship,Dehradun,"07 - 14, Dec 2021",60
+2021,200467,RISHYA Reeth,PSPB,255,2,Senior National Championship,Shillong,"18 - 25, April 2022",90
+2021,200813,CHITALE Diya parag,MHR A,240,3,Senior National Championship,Dehradun,"07 - 14, Dec 2021",45
+2021,200813,CHITALE Diya parag,MHR A,240,3,Senior National Championship,Shillong,"18 - 25, April 2022",30
+2021,200805,GHOSH Swastika,AAI / MHR A,205,4,Senior National Championship,Dehradun,"07 - 14, Dec 2021",15
+2021,200805,GHOSH Swastika,AAI / MHR A,205,4,Senior National Championship,Shillong,"18 - 25, April 2022",60
+2021,200571,SARKAR Takeme,RSPB,195,5,Senior National Championship,Dehradun,"07 - 14, Dec 2021",30
+2021,200571,SARKAR Takeme,RSPB,195,5,Senior National Championship,Shillong,"18 - 25, April 2022",60
+2021,201110,KUTUMBALE Anusha,MP,195,5,Senior National Championship,Dehradun,"07 - 14, Dec 2021",45
+2021,201110,KUTUMBALE Anusha,MP,195,5,Senior National Championship,Shillong,"18 - 25, April 2022",60
+2021,200881,SEN Prapti,BNG A/ RSPB,170,7,Senior National Championship,Dehradun,"07 - 14, Dec 2021",30
+2021,200881,SEN Prapti,BNG A/ RSPB,170,7,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,200220,AYHIKA Mukherjee,RBI,155,8,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,200220,AYHIKA Mukherjee,RBI,155,8,Senior National Championship,Shillong,"18 - 25, April 2022",90
+2021,203203,MUKHERJEE Sutirtha,RSPB,150,9,Senior National Championship,Dehradun,"07 - 14, Dec 2021",90
+2021,203203,MUKHERJEE Sutirtha,RSPB,150,9,Senior National Championship,Shillong,"18 - 25, April 2022",30
+2021,200424,DAS Mouma,PSPB,120,10,Senior National Championship,Shillong,"18 - 25, April 2022",120
+2021,202096,GHORPADE Yashaswini,KNT,120,10,Senior National Championship,Dehradun,"07 - 14, Dec 2021",30
+2021,202096,GHORPADE Yashaswini,KNT,120,10,Senior National Championship,Shillong,"18 - 25, April 2022",30
+2021,200345,KRITTWIKA Sinha roy,GUJ / PSPB,105,12,Senior National Championship,Shillong,"18 - 25, April 2022",30
+2021,200202,DUTTA Moumita,RSPB / BNG A,85,13,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,200202,DUTTA Moumita,RSPB / BNG A,85,13,Senior National Championship,Shillong,"18 - 25, April 2022",60
+2021,200837,AMRUTE Shruti Vijay,RSPB,85,13,Senior National Championship,Dehradun,"07 - 14, Dec 2021",15
+2021,200837,AMRUTE Shruti Vijay,RSPB,85,13,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,202459,MUKHERJEE Sagarika,RSPB,80,15,Senior National Championship,Dehradun,"07 - 14, Dec 2021",15
+2021,202459,MUKHERJEE Sagarika,RSPB,80,15,Senior National Championship,Shillong,"18 - 25, April 2022",30
+2021,201115,BAISYA Poymantee,BNG A/ RSPB,70,16,Senior National Championship,Dehradun,"07 - 14, Dec 2021",15
+2021,201115,BAISYA Poymantee,BNG A/ RSPB,70,16,Senior National Championship,Shillong,"18 - 25, April 2022",30
+2021,200102,AMRUTHA PUSHPAK Shekhar,RBI / TNTTA,65,17,Senior National Championship,Dehradun,"07 - 14, Dec 2021",15
+2021,200102,AMRUTHA PUSHPAK Shekhar,RBI / TNTTA,65,17,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,201162,NARANG Lakshita,DLI,65,17,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,200674,JAISWAL Varuni,TELG,60,19,Senior National Championship,Dehradun,"07 - 14, Dec 2021",15
+2021,200674,JAISWAL Varuni,TELG,60,19,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,200399,CHIPIA Frenaz,GUJ,60,19,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,200895,PATWARI Surbhi,AAI,60,19,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,200750,MANI Nithyashree,TTTA,55,22,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,200750,MANI Nithyashree,TTTA,55,22,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,200507,PATKAR Madhurika,PSPB,50,24,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,200507,PATKAR Madhurika,PSPB,50,24,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,200529,DAS Ankita,PSPB / BNG B,50,24,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,200529,DAS Ankita,PSPB / BNG B,50,24,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,201061,VENKATESAN Kowshika,TTTA,50,24,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,205363,MIRCHANDANI Risha,MHR B / MHR A,45,27,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,200180,VISWANATH Kushi,KNT,45,27,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,200736,SIVASHANKAR yashini,TNTTA,40,29,Senior National Championship,Shillong,"18 - 25, April 2022",30
+2021,202317,NATH Kaushani,RSPB / BNG A,40,29,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,202317,NATH Kaushani,RSPB / BNG A,40,29,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,200643,HARSHA VARDHINI Calange ra,RBI / TNTTA,40,29,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,200110,SELENADEEPTHI Selvakumar,TTTA/MC & IT,40,29,Senior National Championship,Dehradun,"07 - 14, Dec 2021",15
+2021,200425,BATRA Manika,PSPB,30,33,Senior National Championship,Shillong,"18 - 25, April 2022",30
+2021,201114,KUNDU Munmun,BNG A,30,33,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,200884,GOEL Radhapriya,TTFI/AAI,30,33,Senior National Championship,Dehradun,"07 - 14, Dec 2021",15
+2021,200422,SAINI Suhana,HRN,25,36,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,200645,KAMATH Archana girish,PSPB / KNT,20,37,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,201853,GOGOI Trisha,ASM,20,37,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,201096,DE Sataporni,BNG B,20,37,Senior National Championship,Shillong,"18 - 25, April 2022",20
+2021,200486,GOYAL garima,DLI,20,37,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,201305,DEVI KARTHIKEYAN Vedhalak,TNTTA,20,37,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,202344,JOARDAR Oishiki,BNG A,20,37,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,201781,UPADHAYA Kritika,ASM,10,46,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,201029,BASKAR Kavyasree,TTTA,10,46,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2021,202434,VARTIKAR Pritha,MHR B,10,46,Senior National Championship,Dehradun,"07 - 14, Dec 2021",10
+2020,200503,AKULA Sreeja,RBI,380,1,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",40
+2020,200503,AKULA Sreeja,RBI,380,1,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",90
+2020,203203,MUKHERJEE Sutirtha,PSPB / HRN,340,2,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",40
+2020,203203,MUKHERJEE Sutirtha,PSPB / HRN,340,2,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",30
+2020,200425,BATRA Manika,PSPB,300,3,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",120
+2020,200425,BATRA Manika,PSPB,300,3,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",180
+2020,200467,RISHYA Reeth,PSPB,270,4,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",80
+2020,200467,RISHYA Reeth,PSPB,270,4,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",120
+2020,200220,AYHIKA Mukherjee,RBI,245,5,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",20
+2020,200220,AYHIKA Mukherjee,RBI,245,5,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,200881,SEN Prapti,BNG A,225,6,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",60
+2020,200345,KRITTWIKA Sinha roy,PSPB,210,7,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",60
+2020,200345,KRITTWIKA Sinha roy,PSPB,210,7,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",30
+2020,200645,KAMATH Archana girish,PSPB / KNT,205,8,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",60
+2020,200645,KAMATH Archana girish,PSPB / KNT,205,8,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",60
+2020,200571,SARKAR Takeme,RSPB,200,9,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,200571,SARKAR Takeme,RSPB,200,9,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",90
+2020,201110,KUTUMBALE Anusha,MP / PSPB,195,10,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,201110,KUTUMBALE Anusha,MP / PSPB,195,10,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",30
+2020,202317,NATH Kaushani,RSPB,180,11,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",40
+2020,202317,NATH Kaushani,RSPB,180,11,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",60
+2020,202459,MUKHERJEE Sagarika,RSPB,145,12,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",20
+2020,202459,MUKHERJEE Sagarika,RSPB,145,12,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",30
+2020,200813,CHITALE Diya parag,MHR B / MHR A,145,12,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",30
+2020,200110,SELENADEEPTHI Selvakumar,TTTA,145,12,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",20
+2020,200110,SELENADEEPTHI Selvakumar,TTTA,145,12,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,200507,PATKAR Madhurika,PSPB,140,15,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",20
+2020,200507,PATKAR Madhurika,PSPB,140,15,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,200438,PAUL Mousumi,PSPB,135,16,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",40
+2020,200438,PAUL Mousumi,PSPB,135,16,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,200337,POOJA Sahasrabudhe,PSPB / MHR B,130,17,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,200337,POOJA Sahasrabudhe,PSPB / MHR B,130,17,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",60
+2020,200837,AMRUTE Shruti Vijay,RSPB,130,17,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,200837,AMRUTE Shruti Vijay,RSPB,130,17,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",30
+2020,200442,D'SOUZA Senhora cezinha,BBSCB / MHR B,115,19,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",20
+2020,200442,D'SOUZA Senhora cezinha,BBSCB / MHR B,115,19,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,200202,DUTTA Moumita,RSPB,105,20,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",20
+2020,200202,DUTTA Moumita,RSPB,105,20,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,203214,BANU Nikhat,RBI,100,21,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,203214,BANU Nikhat,RBI,100,21,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,200895,PATWARI Surbhi,BNG A,85,22,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,200895,PATWARI Surbhi,BNG A,85,22,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,200643,HARSHA VARDHINI Calange ra,RBI,80,23,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,200504,DESHPANDE Divya,PSPB,80,23,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,201115,BAISYA Poymantee,BNG A,70,25,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",30
+2020,200102,AMRUTHA PUSHPAK Shekhar,RBI,70,25,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",20
+2020,200529,DAS Ankita,PSPB / BNG B,65,27,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,200529,DAS Ankita,PSPB / BNG B,65,27,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,200985,HALEANGADI Srushti,MHR A,65,27,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,200551,MALLIKA Bhandarkar,AAI,55,29,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,200736,SIVASHANKAR yashini,TN,55,29,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,200125,SHANMATHI Sathyamoorthy,FCI,50,31,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",20
+2020,200125,SHANMATHI Sathyamoorthy,FCI,50,31,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,200916,NOORBASHA Shailu,MC & IT,45,32,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,200916,NOORBASHA Shailu,MC & IT,45,32,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,200399,CHIPIA Frenaz,GUJ,40,34,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,200405,KUMARESAN Shamini,PSPB,40,34,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,200408,PRABHU Mamata,BBSCB,40,34,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,200785,BASAK Anannya,MHR B,35,37,Inter Institutional,Ajmer,"24 - 30, Nov, 2019",15
+2020,200674,JAISWAL Varuni,TELG,30,38,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",30
+2020,203207,DAS Priyadarsini,RBI / BNG A,30,38,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,200664,NAGULAPALLI Bhaavitha,TELG,20,42,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,201145,BHARGAVA Vanshika,DLI,20,42,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2020,200819,CHIPLUNKAR Manasi,MHR A,20,42,Senior National Champlionship,Panchkula,"14 - 23, Feb 2021",20
+2024,200813,Chitale Diya Parag,RBI,360,1,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",180
+2024,200813,Chitale Diya Parag,RBI,360,1,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,205498,Das Syndrela,BNG,260,2,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",90
+2024,205498,Das Syndrela,BNG,260,2,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",80
+2024,203203,Mukherjee Sutirtha,RSPB,255,3,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,203203,Mukherjee Sutirtha,RSPB,255,3,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",60
+2024,200805,Ghosh Swastika,AAI,240,4,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,200805,Ghosh Swastika,AAI,240,4,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",60
+2024,202096,Ghorpade Yashaswini,PSPB,225,5,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",90
+2024,202096,Ghorpade Yashaswini,PSPB,225,5,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",20
+2024,203189,Wani Sayali,PSPB,210,6,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,203189,Wani Sayali,PSPB,210,6,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",120
+2024,203188,Kotecha Taneesha,MHR,190,7,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",60
+2024,203188,Kotecha Taneesha,MHR,190,7,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",40
+2024,201110,Kutumbale Anusha,RSPB,175,8,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",30
+2024,201110,Kutumbale Anusha,RSPB,175,8,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",40
+2024,200507,Patkar Madhurika,PSPB,140,9,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",60
+2024,200507,Patkar Madhurika,PSPB,140,9,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",20
+2024,204811,Bhatt Kavya,MHR,135,10,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",20
+2024,202570,Chande Ananya,MHR,125,11,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",60
+2024,202570,Chande Ananya,MHR,125,11,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",20
+2024,200736,Sivashankar Yashini,TN,125,11,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",30
+2024,200736,Sivashankar Yashini,TN,125,11,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",20
+2024,200503,Akula Sreeja,RBI,120,13,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",120
+2024,200345,Krittwika Sinha Roy,GUJ,115,14,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",60
+2024,205154,Maji Sayanika,DLI,105,15,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,200422,Saini Suhana,HRN,95,16,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",30
+2024,200422,Saini Suhana,HRN,95,16,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",20
+2024,200110,Selena Deepti Selvakumar,TN,95,16,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,200110,Selena Deepti Selvakumar,TN,95,16,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,200467,Rishya Reeth,PSPB,90,18,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",30
+2024,200467,Rishya Reeth,PSPB,90,18,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,205960,Bhowmick Divyanshi,MHR,90,18,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",40
+2024,201046,Chakraborti Prithoki,HRN,80,20,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,201046,Chakraborti Prithoki,HRN,80,20,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",20
+2024,200442,D'souza Senhora Cezinha,MHR,72,21,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,200442,D'souza Senhora Cezinha,MHR,72,21,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,203214,Banu Nikhat,TELG,70,22,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",30
+2024,203214,Banu Nikhat,TELG,70,22,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,201853,Gogoi Trisha,ASM,70,22,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,201853,Gogoi Trisha,ASM,70,22,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,200881,Sen Prapti,RSPB,65,24,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",30
+2024,200881,Sen Prapti,RSPB,65,24,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,202439,Bhiwandkar Sampada,MHR,65,24,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,202439,Bhiwandkar Sampada,MHR,65,24,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,201029,Baskar Kavyasree,TN,60,26,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",30
+2024,201029,Baskar Kavyasree,TN,60,26,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,201049,Bhowmick Sneha,HRN,60,26,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,201049,Bhowmick Sneha,HRN,60,26,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,203864,Varghese Jennifer,MHR,60.0,26,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,203864,Varghese Jennifer,MHR,60.0,26,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",2
+2024,204566,Tripathi Avani,UP,58,29,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204566,Tripathi Avani,UP,58,29,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",40
+2024,200571,Sarkar Takeme,RSPB,57,30,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,200571,Sarkar Takeme,RSPB,57,30,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,205167,Karmakar Avisha,BNG,57,30,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,205167,Karmakar Avisha,BNG,57,30,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,200424,Das Mouma,PSPB,55,32,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,200424,Das Mouma,PSPB,55,32,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,201115,Baisya Poymantee,RSPB,55,32,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,201115,Baisya Poymantee,RSPB,55,32,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,200750,Mani Nithyashree,TN,55,32,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,200750,Mani Nithyashree,TN,55,32,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,202317,Nath Kaushani,RSPB,55,32,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,202317,Nath Kaushani,RSPB,55,32,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,206358,Kalbhairav Tanishka,KNT,55,32,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,204007,Anand Shriya,TN,50.0,37,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,204007,Anand Shriya,TN,50.0,37,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",2
+2024,201162,Narang Lakshita,DLI,50,37,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,201162,Narang Lakshita,DLI,50,37,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,202434,Vartikar Pritha,PSPB,47,39,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,202434,Vartikar Pritha,PSPB,47,39,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,204331,Roy Ditsa,BNG,47,39,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,204331,Roy Ditsa,BNG,47,39,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,203790,Saha Nandini,BNG,45.0,41,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",30
+2024,203790,Saha Nandini,BNG,45.0,41,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",2
+2024,200353,Garima Goyal,DLI,45.0,41,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,200353,Garima Goyal,DLI,45.0,41,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",2
+2024,203207,Das Priyadarsini,RBI,45,41,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,203207,Das Priyadarsini,RBI,45,41,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,201114,Kundu Munmun,RSPB,45,41,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201114,Kundu Munmun,RSPB,45,41,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,200180,Viswanath Kushi,KNT,42,45,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,200180,Viswanath Kushi,KNT,42,45,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,202537,Kumari Neha,ODS,40,46,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,202537,Kumari Neha,ODS,40,46,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,201351,Rohilla Anjali,IA & AD,40,46,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,201351,Rohilla Anjali,IA & AD,40,46,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",20
+2024,205105,Rewaskar Naisha,MHR,40,46,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,200202,Dutta Moumita,RSPB,35,49,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,201512,Kadri Filzah Fatema,GUJ,35.0,49,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,201512,Kadri Filzah Fatema,GUJ,35.0,49,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",2
+2024,200220,Ayhika Mukherjee,RBI,33,51,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,200220,Ayhika Mukherjee,RBI,33,51,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",3
+2024,200399,Chipia Frenaz,GUJ,32,52,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,200399,Chipia Frenaz,GUJ,32,52,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,203747,Mudgal Vanshika,DLI,32,52,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,203747,Mudgal Vanshika,DLI,32,52,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",15
+2024,200795,Patil Manushree,MHR,32,52,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,200795,Patil Manushree,MHR,32,52,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,200337,Pooja Sahasrabudhe,PSPB,30,55,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",20
+2024,202344,Joardar Oishiki,GUJ,30,55,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,202344,Joardar Oishiki,GUJ,30,55,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",3
+2024,200785,Basak Anannya,MHR,30,55,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,200785,Basak Anannya,MHR,30,55,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",3
+2024,200837,Amrute Shruti Vijay,RSPB,29,58,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200837,Amrute Shruti Vijay,RSPB,29,58,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,203142,Saini Tamanna,IA & AD,27,59,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,200643,Harsha Vardhini Calange Ravichandran,RBI,27,59,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200643,Harsha Vardhini Calange Ravichandran,RBI,27,59,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",3
+2024,204084,M Hansini,TN,25,61,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,204084,M Hansini,TN,25,61,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",3
+2024,200102,Amrutha Pushpak Shekhar,RBI,25,61,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,200102,Amrutha Pushpak Shekhar,RBI,25,61,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",3
+2024,204397,Datta Subhankrita,BNG,25,61,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,201145,Bhargava Vanshika,DLI,24,64,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,201145,Bhargava Vanshika,DLI,24,64,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,201096,De Sataporni,BNG,22,65,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,201096,De Sataporni,BNG,22,65,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,204853,Goel Prisha,DLI,22,65,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,204853,Goel Prisha,DLI,22,65,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,203871,Dalvi Mukta,MHR,22,65,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,204561,Chaudhary Aarti,UP,22,65,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200674,Jaiswal Varuni,TELG,22,65,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200674,Jaiswal Varuni,TELG,22,65,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,203999,Antal Manal,HRN,22,65,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",7
+2024,201399,Paul Puja,FCI,20,71,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,201399,Paul Puja,FCI,20,71,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,200040,Maria Rony,KRL,20,71,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,200040,Maria Rony,KRL,20,71,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,202910,- Pelf,CHD,20,71,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200651,Parte Shweta,RBI,20,71,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200651,Parte Shweta,RBI,20,71,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,203088,Bharat Vartica,NCOE,20,71,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,205138,Muralidharan Ananya,TN,20,71,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,201061,Venkatesan Kowshika,TN,20,71,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,205288,Pawar Pratha,GUJ,19,78,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,204398,Das Soumya,BNG,19,78,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200777,Ramjali Kajol,AP,19,78,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200214,Srijanee Dey,BNG,18,81,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,200504,Deshpande Divya,PSPB,18,81,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,203858,Patel Hardee,MHR,18,81,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,204068,Jayswal Riya,GUJ,17,84,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,204068,Jayswal Riya,GUJ,17,84,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,204435,. Disha,UP,17,84,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,203829,Bhattacharjee Sandika,NCOE,17,84,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,203119,Roy Sampriti,BNG,17,84,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,203119,Roy Sampriti,BNG,17,84,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,200884,Goel Radhapriya,AAI,16,88,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,204545,Roy Saanvi,BNG,15,90,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,200781,Paul Trisha,HRN,15,90,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,200781,Paul Trisha,HRN,15,90,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,204511,Kapoor Riddhima,DLI,15,90,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,205879,Rao Bhavya,MP,14.5,93,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,205879,Rao Bhavya,MP,14.5,93,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,201125,Modak Mouli,BNG,14,94,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,200351,Tanushree Das Gupta,MEG,14,94,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,201008,Santra Ananya,BNG,14,94,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,202426,Murad Aafrien,GUJ,13,97,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200657,Balusuri Raaga Niveditha,MP,13,97,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,202884,Dalai Swetapadma,ODS,12,100,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,203339,Murthy Sahana,KNT,12,100,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200914,Deshpande Shreya,MHR,12,100,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,205145,N.bs Thanuja,TN,12,100,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,204057,Sahu Gungun,UP,12,100,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,200754,Neelakandan Deepika,TN,11.5,106,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,203364,P Nair Pranati,KRL,11,107,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,202308,Purohit Trupti,KNT,11,107,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,204575,Jaiswal Shrishti,UP,11,107,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,201325,Jayswal Namna,GUJ,10.5,111,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,201325,Jayswal Namna,GUJ,10.5,111,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,203329,Vanshika Deshna M,KNT,10,112,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,204063,Mahajan Suhani,UP,10,112,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,202459,Mukherjee Sagarika,RSPB,10,112,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",10
+2024,203570,Roy Sreedatri,HRN,10,112,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,206320,Agrawal Advika,MP,9.5,117,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,206320,Agrawal Advika,MP,9.5,117,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,204436,Gupta Anika,UP,9,118,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,201310,Dasgupta Koushiki,RSPB,9,118,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,204799,Kalra Kashvi,HRN,9,118,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,202147,Chaturvedi (bhatt) Mrs. Himani,MP,9,118,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,203105,Banik Sammridhi,TELG,8.5,123,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,203105,Banik Sammridhi,TELG,8.5,123,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,204396,Sen Alolika,BNG,8,124,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,205428,Pal Moumita,MP,8,124,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,204579,Surlakar Urvi,GOA,8,124,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,202560,Sarkar Nilishma,BNG,7.5,131,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,202560,Sarkar Nilishma,BNG,7.5,131,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,200664,Nagulapalli Bhaavitha,TELG,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,201225,Kulkarni Samruddhi,MHR,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,203251,Basak Anushka,PUN,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,207887,Patel Siddhi,GUJ,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200529,Das Ankita,PSPB,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200125,Shanmathi Sathyamoorthy,FCI,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200438,Paul Mousumi,PSPB,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200697,. Naina,TELG,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,203585,Singh Neha,CHD,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200735,Manjunath Anargya,KNT,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",7
+2024,200608,Lahkar Kakoli,RBI,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,204805,Mishra Elina,UP,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,203158,Das Poulami,BNG,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,201137,Ganguly Priyanka,BNG,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,203477,Datta Soumili,BNG,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,202165,Bose Tanushree,BNG,7,132,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,203548,Donekal Ananya,TELG,6,150,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,200877,Ghosh Shreya,RSPB,6,150,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,204445,Shivasri S,PON,6,150,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,202499,Vyas Anshul,TTFI 2,6,150,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,203309,Devi Sree Dongari,TELG,6,150,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,205670,Nagdeve Parmi,MP,6,150,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204253,Kashyap Bhavna,ASM,6,150,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,206629,Nithyasri V. S,PON,6,150,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201496,Jati Pausali,ESIC,5.5,160,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201496,Jati Pausali,ESIC,5.5,160,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,205084,Nandi Aarushi,BNG,5.5,160,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,201328,Bhairapure Kausha,GUJ,5,162,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,201391,Songadkar Arya,MHR,5,162,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,205821,Iniya I,PON,5,162,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,200524,Tipale Prajakta,LIC,5,162,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,206598,Vedha K,PON,5,162,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,207468,Manki Khushi,TTFI 2,4,173,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,201229,Sharma Bhavprita,HP,4,173,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,207968,Paul Indira,BNG,4,173,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,205200,Vyas Samridhi,TTFI 1,4,173,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,200448,Mondal Soumi,PSPB,4,173,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,202396,Dave Naitri,GUJ,4,173,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,204207,. Kayna,PUN,4,173,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,204098,Joshy Maria Cicily,KRL,4,173,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,202146,M Mandula Nikitha,ESIC,4,173,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",4
+2024,206240,Chhabra Sherell,CHD,4,173,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,203736,Sharma Samaira,TTFI 1,4,173,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204554,Chipia Zena,ESIC,3,198,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",3
+2024,205092,Paul Prateeti,AAI,3,198,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",3
+2024,206306,Solanki Kajal,TTFI 2,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204245,Das Anushna,ASM,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201774,Nagori Nandini,TTFI 1,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,203482,Patel Sheli,GUJ,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204342,Banthia Suhani,TTFI 1,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,205579,Kamat Neeza,GOA,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201716,Dhuria Vaishnavi,UP,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201565,Joshi Vidushi,UKD,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,203373,Vaishnavi Surya Yandamuri,AP,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201217,Seal Manisha,MP,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201780,Mazumdar Jitakhee,ASM,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,203504,Guleria Bhagya,HP,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,205936,Pathak Pragya,CG,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,200260,Sanya Sehgal,DLI,3,198,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,206043,Acharya Anushka,TTFI 1,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,205708,Bhardwaj Aaditri,UKD,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,207969,Yadav Manika,BNG,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,206162,Hingorany Siya,MHR,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201243,Sharma Pooja,MP,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,202749,Borpuzari Akankhya,ASM,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204522,Kalra Ankana,DLI,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,206802,Kapoor Kirti,UP,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,206341,Godil Daniya,GUJ,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204462,Sharma Richa,ASM,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,208338,Bithu Gunjan,TTFI 2,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204113,Panda M B Barsha,ODS,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,205011,Shah Shanaya,DND,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,200348,Esha Monga,ESIC,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,202064,Modi Surabhi,CG,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201083,Biswas Diksa,FCI,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204256,Guna Samyuktha Varanasi,AP,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204447,Dave Bhagyashree,MP,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204298,Synrem Ilapynkmen,MEG,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204856,Narang Dishita,HP,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,205980,Chhabra Cherrish,CHD,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,208441,Singh Wageesha,BHR,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201627,Bhagat Sikriti,ODS,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204546,Chatterjee Srijani,JKD,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,209522,Rahna Rashmi,A & N,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,206934,Patwal Anushka,UKD,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,207926,Bose Ipshita,BNG,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,205794,Saikia Gargi,ASM,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201338,Kotia Purvanshi,MP,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,200943,Chodankar Aditi Deepak,GOA,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,203943,Naik Anushri,GOA,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201717,Srivastava Akriti,UP,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,209498,Kumari Swati,UP,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,205790,Karki Nirmala Kumari,JKD,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,203118,Bhowmick Sania,BNG,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,205902,Makwana Priyanshi,DND,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204090,Malhotra Mansi,CHD,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201619,Gupta Riyanshi,BHR,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204670,Edward Edwina,KRL,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,202892,Mukherjee Falguni,BHR,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201772,Radheshyam Kajal,CG,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,203475,Yadav Vaishnavi,UP,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201409,Prosad Sucheta,BNG,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,207458,Fatima Nasireen,LAD,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,205926,Gopi Riya,GOA,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,204198,Jannath Beebi N,PON,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,203060,Nandani,BHR,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,207112,Kumaravel Nishanthi,ESIC,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201278,Michael Reeva Anna,KRL,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,206912,Mandavi Dipti,CG,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201181,Kohli Tisha,DLI,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,201078,Guha Subhasree,BNG,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,207406,Kaur Prabhleen,CHD,2,230,Senior National Championship,Surat (Gujrat),"19 - 26 Jan, 2025",2
+2024,209204,Kunder Vishala,DAE,1.5,309,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,204589,Sahukar Bhumika,MP,1.5,309,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,200515,Daman Ripu,LIC,1.5,309,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,210720,D N Sangeetha,DAE,1.5,309,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,210432,Parashar Anushka,MP,1.5,309,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
+2024,210721,Indu Yamini,DAE,1.5,309,Inter Institutional,Indore (MP),"24 - 30 Dec, 2025",1.5
